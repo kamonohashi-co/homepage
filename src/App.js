@@ -1,9 +1,13 @@
-import './App.css';
+import "./App.css";
+import logo from "./assets/logo.png";
 
 function App() {
   return (
     <div className="App">
-      Coming Soon.
+      <div className="comingSoon">
+        <img src={logo} alt="Kamonohashi Logo"/>
+        <div>Coming Soon.</div>
+      </div>
     </div>
   );
 }
