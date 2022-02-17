@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a298a753.css",
+    "main.js": "/static/js/main.e4a6eabd.js",
+    "static/js/787.de18ad3a.chunk.js": "/static/js/787.de18ad3a.chunk.js",
+    "static/media/logo.png": "/static/media/logo.a097b789f416377b25c2.png",
+    "static/media/background.png": "/static/media/background.ed7e7a2e474808524dc8.png",
+    "static/media/riimonakablt-webfont.woff": "/static/media/riimonakablt-webfont.aa0c3a0b24bed23af3b6.woff",
+    "static/media/riimonakablt-webfont.woff2": "/static/media/riimonakablt-webfont.b2255276c763e5a04361.woff2",
+    "index.html": "/index.html",
+    "main.a298a753.css.map": "/static/css/main.a298a753.css.map",
+    "main.e4a6eabd.js.map": "/static/js/main.e4a6eabd.js.map",
+    "787.de18ad3a.chunk.js.map": "/static/js/787.de18ad3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a298a753.css",
+    "static/js/main.e4a6eabd.js"
+  ]
+}
