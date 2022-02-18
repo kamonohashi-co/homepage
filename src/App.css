@@ -27,3 +27,22 @@ body {
   width: 500px;
 }
 
+@media (min-width: 768px) {
+  .comingSoon img {
+    width: 500px;
+  }
+}
+
+@media (max-width: 460px) {
+  .comingSoon {
+    width: 100%;
+  }
+
+  .comingSoon img {
+    width: 80%;
+  }
+}
+
+
+
+
